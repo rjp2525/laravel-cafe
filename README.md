@@ -7,7 +7,6 @@
   </a>
 
   <h3 align="center">Laravel Cafe - An elegant drop-in forum for your application</h3>
-  <br />
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -19,7 +18,7 @@
 
 ## About Laravel Cafe
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Cafe Screenshot][product-screenshot]
 
 In the past, I've worked on a lot of applications that required some sort of forum or discussion board attached to it. Though I don't really use them myself anymore, I figured it would be a great opportunity to get involved with Laravel open-source package development and potentially make someone else's life easier.
 
@@ -44,4 +43,4 @@ Check back soon for updates!
 [issues-url]: https://github.com/rjp2525/laravel-cafe/issues
 [license-shield]: https://img.shields.io/github/license/rjp2525/laravel-cafe.svg?style=for-the-badge
 [license-url]: https://github.com/rjp2525/laravel-cafe/blob/master/LICENSE.txt
-[product-screenshot]: .gh/screenshot.png
+[product-screenshot]: .github/screenshot.png
