@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/rjp2525/laravel-cafe">
-    <img src=".gh/laravel-cafe-logo.svg" alt="Logo">
+    <img src=".github/laravel-cafe-logo.svg" alt="Logo">
   </a>
 
   <h3 align="center">Laravel Cafe - An elegant drop-in forum for your application</h3>
